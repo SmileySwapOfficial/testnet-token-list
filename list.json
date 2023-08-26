@@ -1,0 +1,41 @@
+{
+    "name": "SmileySwap TonenList",
+    "logoURI": "https://github.com/SmileySwapOfficial/testnet-token-list/icons/logo.svg",
+    "keywords": [
+        "SmileySwap",
+        "tokens",
+        "Zilliqa"
+    ],
+    "timestamp": "2021-05-10T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x6f89DF11C032dBB70Ed86E89682e20B68D2B1e89",
+            "chainId": 33101,
+            "name": "Toad",
+            "symbol": "TOAD",
+            "decimals": 18,
+            "logoURI": "https://github.com/SmileySwapOfficial/testnet-token-list/icons/toad.svg"
+        },
+        {
+            "address": "0xAE96D190711Ee5617394c501A042c7c693a63E45",
+            "chainId": 33101,
+            "name": "Cling",
+            "symbol": "CLING",
+            "decimals": 18,
+            "logoURI": "https://github.com/SmileySwapOfficial/testnet-token-list/icons/star.svg"
+        },
+        {
+            "address": "0x26597CC3C5d1b7B97147e4F9B5AA1bC9b0baD407",
+            "chainId": 33101,
+            "name": "Usdc",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://github.com/SmileySwapOfficial/testnet-token-list/icons/usdc.svg"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
